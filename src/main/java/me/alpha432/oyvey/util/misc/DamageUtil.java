@@ -1,5 +1,6 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.misc;
 
+import me.alpha432.oyvey.util.Util;
 import net.minecraft.enchantment.EnchantmentHelper;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityLivingBase;

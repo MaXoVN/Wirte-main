@@ -1,5 +1,7 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.misc;
 
+import me.alpha432.oyvey.util.Util;
+import me.alpha432.oyvey.util.math.MathUtil;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.network.play.client.CPacketPlayer;

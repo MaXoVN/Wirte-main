@@ -1,8 +1,8 @@
 package me.alpha432.oyvey.manager;
 
 import me.alpha432.oyvey.features.Feature;
-import me.alpha432.oyvey.util.BlockUtil;
-import me.alpha432.oyvey.util.EntityUtil;
+import me.alpha432.oyvey.util.render.BlockUtil;
+import me.alpha432.oyvey.util.entity.EntityUtil;
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.util.math.BlockPos;

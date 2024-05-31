@@ -1,4 +1,4 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.render;
 
 import me.alpha432.oyvey.features.modules.client.ClickGui;
 

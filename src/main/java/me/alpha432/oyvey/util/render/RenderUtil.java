@@ -1,6 +1,8 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.render;
 
 import me.alpha432.oyvey.OyVey;
+import me.alpha432.oyvey.util.Util;
+import me.alpha432.oyvey.util.entity.EntityUtil;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.client.Minecraft;

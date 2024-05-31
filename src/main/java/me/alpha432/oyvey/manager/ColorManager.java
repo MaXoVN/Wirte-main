@@ -2,7 +2,7 @@ package me.alpha432.oyvey.manager;
 
 import me.alpha432.oyvey.features.gui.components.Component;
 import me.alpha432.oyvey.features.modules.client.ClickGui;
-import me.alpha432.oyvey.util.ColorUtil;
+import me.alpha432.oyvey.util.render.ColorUtil;
 
 import java.awt.*;
 //written

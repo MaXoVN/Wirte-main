@@ -4,8 +4,8 @@ import me.alpha432.oyvey.event.events.Render3DEvent;
 import me.alpha432.oyvey.features.modules.Module;
 import me.alpha432.oyvey.features.modules.client.ClickGui;
 import me.alpha432.oyvey.features.setting.Setting;
-import me.alpha432.oyvey.util.ColorUtil;
-import me.alpha432.oyvey.util.RenderUtil;
+import me.alpha432.oyvey.util.render.ColorUtil;
+import me.alpha432.oyvey.util.render.RenderUtil;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.RayTraceResult;
 

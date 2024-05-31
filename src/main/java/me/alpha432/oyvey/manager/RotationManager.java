@@ -1,8 +1,8 @@
 package me.alpha432.oyvey.manager;
 
 import me.alpha432.oyvey.features.Feature;
-import me.alpha432.oyvey.util.MathUtil;
-import me.alpha432.oyvey.util.RotationUtil;
+import me.alpha432.oyvey.util.math.MathUtil;
+import me.alpha432.oyvey.util.misc.RotationUtil;
 import net.minecraft.entity.Entity;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Vec3d;

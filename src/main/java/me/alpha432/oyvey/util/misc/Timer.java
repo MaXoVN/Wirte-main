@@ -1,4 +1,4 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.misc;
 
 public class Timer {
     private long time = -1L;

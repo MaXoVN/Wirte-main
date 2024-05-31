@@ -1,7 +1,10 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.entity;
 
 import com.mojang.realmsclient.gui.ChatFormatting;
 import me.alpha432.oyvey.OyVey;
+import me.alpha432.oyvey.util.Util;
+import me.alpha432.oyvey.util.math.MathUtil;
+import me.alpha432.oyvey.util.render.BlockUtil;
 import net.minecraft.block.*;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.enchantment.EnchantmentHelper;

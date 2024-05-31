@@ -1,6 +1,7 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.misc;
 
 import me.alpha432.oyvey.OyVey;
+import me.alpha432.oyvey.util.Util;
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;
 import net.minecraft.enchantment.EnchantmentHelper;

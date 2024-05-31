@@ -1,4 +1,4 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.player;
 
 import com.google.common.collect.Lists;
 import com.google.gson.JsonArray;
@@ -7,6 +7,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.mojang.util.UUIDTypeAdapter;
 import me.alpha432.oyvey.features.command.Command;
+import me.alpha432.oyvey.util.Util;
 import net.minecraft.advancements.AdvancementManager;
 import net.minecraft.client.network.NetworkPlayerInfo;
 import net.minecraft.entity.player.EntityPlayer;

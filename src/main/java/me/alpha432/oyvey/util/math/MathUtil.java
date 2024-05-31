@@ -1,5 +1,6 @@
-package me.alpha432.oyvey.util;
+package me.alpha432.oyvey.util.math;
 
+import me.alpha432.oyvey.util.Util;
 import net.minecraft.entity.Entity;
 import net.minecraft.util.math.AxisAlignedBB;
 import net.minecraft.util.math.BlockPos;
