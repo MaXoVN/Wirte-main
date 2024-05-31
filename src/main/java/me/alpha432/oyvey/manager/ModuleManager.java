@@ -56,6 +56,8 @@ public class ModuleManager
         this.modules.add(new AutoArmor());
         this.modules.add(new ESP());
         this.modules.add(new AutoFrameDupe());
+        this.modules.add(new CrystalSpawns());
+
     }
 
     public Module getModuleByName(String name) {
